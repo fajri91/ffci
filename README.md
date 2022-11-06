@@ -8,3 +8,7 @@ FFCI is a framework for fine-grained summarization evaluation that comprises fou
 ### Paper
 Fajri Koto, Timothy Baldwin, and Jey Han Lau. [_FFCI: A Framework for Interpretable Automatic Evaluation of Summarization_](https://arxiv.org/pdf/2011.13662.pdf). 
 Under review for the Journal of Artificial Intelligence Research (JAIR 2021). 
+
+### Data
+
+You can find the data used in our experiments in folder `Data`. 
